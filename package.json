@@ -1,0 +1,14 @@
+{
+  "name": "test-jar",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node node_modules/@platojar/cli/bin/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@platojar/cli": "^0.0.2"
+  }
+}
