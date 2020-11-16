@@ -1,4 +1,4 @@
-name: Build site on 5 AM - midnight on every hour
+name: Build site daily or on master update
 
 on:
   push:
