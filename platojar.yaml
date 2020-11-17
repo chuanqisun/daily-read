@@ -1,4 +1,4 @@
-# cacheUrl: https://dailyread.netlify.app/cache.json
+cacheUrl: https://dailyread.netlify.app/cache.json
 sources:
   - href: https://christianheilmann.com/feed/
   - href: https://daverupert.com/atom.xml
@@ -7,3 +7,5 @@ sources:
   - href: https://www.smashingmagazine.com/feed/
   - href: https://gomakethings.com/feed/index.xml
   - href: https://uxmovement.com/feed/
+  - href: https://logicmag.io/rss.xml
+  - href: https://increment.com/feed.xml
