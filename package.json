@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@platojar/cli": "0.0.11"
+    "@platojar/cli": "0.0.12"
   }
 }
