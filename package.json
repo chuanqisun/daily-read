@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@platojar/cli": "0.0.17"
+  "dependencies": {
+    "@platojar/cli": "^1.0.0"
   }
 }
