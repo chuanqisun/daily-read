@@ -3,12 +3,12 @@
   "version": "1.0.1",
   "description": "",
   "scripts": {
-    "build": "node node_modules/@platojar/cli/bin/main.js"
+    "build": "osmosfeed"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@platojar/cli": "^1.0.0"
+    "@osmoscraft/osmosfeed": "^1.0.0"
   }
 }
