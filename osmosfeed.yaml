@@ -1,4 +1,5 @@
 cacheUrl: https://dailyread.netlify.app/cache.json
+cacheMaxDays: 21
 sources:
   - href: https://christianheilmann.com/feed/
   - href: https://daverupert.com/atom.xml
