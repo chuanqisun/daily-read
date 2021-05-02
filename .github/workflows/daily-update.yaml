@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    # just after Mid-night
+    # just after midnight
     - cron: "5 8 * * *"
 
 jobs:
