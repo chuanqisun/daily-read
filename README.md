@@ -1,4 +1,4 @@
-# Daily read
+# Daily Read
 
 This is my personal RSS reader. Is it running entirely on GitHub, powered by [osmos::feed](https://github.com/osmoscraft/osmosfeed).
 
