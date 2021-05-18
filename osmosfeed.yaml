@@ -12,3 +12,6 @@ sources:
   - href: https://ishadeed.com/feed.xml
   - href: https://wdrl.info/feed
   - href: https://alistapart.com/main/feed/
+  - href: https://developer.chrome.com/feeds/blog.xml
+  - href: https://webkit.org/feed/atom/
+  - href: https://hacks.mozilla.org/feed/
