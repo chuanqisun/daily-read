@@ -2,4 +2,4 @@
 # unless otherwise overridden by more specific contexts.
 [build]
   publish = "public"
-  command = "npm run build"
+  command = "npm update && npm run build"
