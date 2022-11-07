@@ -32,3 +32,4 @@ sources:
   - href: https://rpeszek.github.io/RSS.xml
   - href: https://ryanmulligan.dev/blog/feed.xml
   - href: https://ciechanow.ski/atom.xml
+  - href: https://cprss.s3.amazonaws.com/golangweekly.com.xml
