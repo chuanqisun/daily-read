@@ -33,3 +33,4 @@ sources:
   - href: https://ryanmulligan.dev/blog/feed.xml
   - href: https://ciechanow.ski/atom.xml
   - href: https://cprss.s3.amazonaws.com/golangweekly.com.xml
+  - href: https://go.dev/blog/feed.atom
