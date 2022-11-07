@@ -1,5 +1,5 @@
 cacheUrl: https://dailyread.netlify.app/cache.json
-cacheMaxDays: 99
+cacheMaxDays: 60
 timezone: America/Los_Angeles
 sources:
   - href: https://christianheilmann.com/feed/
