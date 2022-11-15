@@ -2,35 +2,45 @@ cacheUrl: https://dailyread.netlify.app/cache.json
 cacheMaxDays: 60
 timezone: America/Los_Angeles
 sources:
+  # ===========
+  # Indie blogs 
+  # ----------- 
+  - href: https://buttondown.email/hillelwayne/rss
   - href: https://christianheilmann.com/feed/
   - href: https://daverupert.com/atom.xml
   - href: https://www.taniarascia.com/rss.xml
+  - href: https://ishadeed.com/feed.xml
+  - href: https://gomakethings.com/feed/index.xml
+  - href: https://lea.verou.me/feed/
+  - href: https://www.baldurbjarnason.com/index.xml
+  - href: https://maggieappleton.com/rss.xml
+  - href: https://subconscious.substack.com/feed
+  - href: https://seirdy.one/posts/atom.xml
+  - href: https://rpeszek.github.io/RSS.xml
+  - href: https://stratechery.com/feed/
+  - href: https://ryanmulligan.dev/blog/feed.xml
+  - href: https://ciechanow.ski/atom.xml
+  # ===================
+  # Code/besign digests
+  # -------------------
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
-  - href: https://gomakethings.com/feed/index.xml
   - href: https://logicmag.io/rss.xml
   - href: https://increment.com/feed.xml
-  - href: https://ishadeed.com/feed.xml
   - href: https://wdrl.info/feed
   - href: https://alistapart.com/main/feed/
-  - href: https://developer.chrome.com/feeds/blog.xml
-  - href: https://webkit.org/feed/atom/
-  - href: https://hacks.mozilla.org/feed/
-  - href: https://www.baldurbjarnason.com/index.xml
-  - href: https://feeds.feedburner.com/logodesignlove
-  - href: https://stratechery.com/feed/
-  - href: https://ishadeed.com/feed.xml
-  - href: https://lea.verou.me/feed/
   - href: https://tympanus.net/codrops/feed/
   - href: https://www.thisiscolossal.com/feed/
   - href: https://blog.tubikstudio.com/feed/
   - href: https://www.loversmagazine.com/feed
-  - href: https://maggieappleton.com/rss.xml
-  - href: https://subconscious.substack.com/feed
-  - href: https://seirdy.one/posts/atom.xml
   - href: https://github.com/readme.rss
-  - href: https://rpeszek.github.io/RSS.xml
-  - href: https://ryanmulligan.dev/blog/feed.xml
-  - href: https://ciechanow.ski/atom.xml
+  - href: https://feeds.feedburner.com/logodesignlove
+  # ==============
+  # Official blogs
+  # --------------
+  - href: https://developer.chrome.com/feeds/blog.xml
+  - href: https://webkit.org/feed/atom/
+  - href: https://hacks.mozilla.org/feed/
   - href: https://cprss.s3.amazonaws.com/golangweekly.com.xml
   - href: https://go.dev/blog/feed.atom
+  
