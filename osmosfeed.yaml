@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://thevaluable.dev/index.xml
   - href: https://onethingwell.org/rss
   - href: https://www.hillelwayne.com/post/index.xml
   - href: https://christianheilmann.com/feed/
