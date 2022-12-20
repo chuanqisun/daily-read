@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://onethingwell.org/rss
   - href: https://www.hillelwayne.com/post/index.xml
   - href: https://christianheilmann.com/feed/
   - href: https://daverupert.com/atom.xml
