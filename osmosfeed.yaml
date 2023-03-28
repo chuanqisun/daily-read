@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://lilianweng.github.io/index.xml
   - href: https://writings.stephenwolfram.com/feed/
   - href: https://the.scapegoat.dev/feed/?type=rss
   - href: https://thevaluable.dev/index.xml
