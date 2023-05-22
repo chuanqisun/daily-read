@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://cprimozic.net/rss.xml
   - href: https://simonwillison.net/atom/everything/
   - href: https://lilianweng.github.io/index.xml
   - href: https://writings.stephenwolfram.com/feed/
