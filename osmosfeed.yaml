@@ -1,10 +1,11 @@
 cacheUrl: https://dailyread.netlify.app/cache.json
-cacheMaxDays: 60
+cacheMaxDays: 30
 timezone: America/Los_Angeles
 sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://ishadeed.com/feed.xml
   - href: https://cprimozic.net/rss.xml
   - href: https://simonwillison.net/atom/everything/
   - href: https://lilianweng.github.io/index.xml
