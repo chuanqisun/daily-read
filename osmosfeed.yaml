@@ -47,6 +47,7 @@ sources:
   # ==============
   # Official blogs
   # --------------
+  - href: https://www.figma.com/blog/feed/atom.xml
   - href: https://developer.chrome.com/feeds/blog.xml
   - href: https://webkit.org/feed/atom/
   - href: https://hacks.mozilla.org/feed/
