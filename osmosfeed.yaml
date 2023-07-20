@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://sive.rs/en.atom
   - href: https://ishadeed.com/feed.xml
   - href: https://cprimozic.net/rss.xml
   - href: https://simonwillison.net/atom/everything/
