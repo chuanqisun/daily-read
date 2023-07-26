@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://blogs.gnome.org/tbernard/feed/
   - href: https://thesephist.com/index.xml
   - href: https://sive.rs/en.atom
   - href: https://ishadeed.com/feed.xml
