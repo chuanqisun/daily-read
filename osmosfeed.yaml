@@ -52,6 +52,7 @@ sources:
   # ==============
   # Official blogs
   # --------------
+  - href: https://blog.rust-lang.org/feed.xml
   - href: https://www.figma.com/blog/feed/atom.xml
   - href: https://developer.chrome.com/feeds/blog.xml
   - href: https://webkit.org/feed/atom/
