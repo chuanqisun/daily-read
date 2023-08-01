@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://ploum.net/atom_en.xml
   - href: https://mmazzarolo.com/blog/index.xml
   - href: https://www.spicyweb.dev/feed.xml
   - href: https://blogs.gnome.org/tbernard/feed/
