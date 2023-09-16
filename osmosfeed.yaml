@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://alexanderobenauer.com/assets/feed/rss.xml
   - href: https://ntietz.com/atom.xml
   - href: https://ploum.net/atom_en.xml
   - href: https://mmazzarolo.com/blog/index.xml
