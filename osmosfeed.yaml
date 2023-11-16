@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs 
   # ----------- 
+  - href: https://datagubbe.se/atom.xml
   - href: https://jakelazaroff.com/rss.xml
   - href: https://herman.bearblog.dev/feed/
   - href: https://alexanderobenauer.com/assets/feed/rss.xml
@@ -42,7 +43,6 @@ sources:
   # ===================
   # Code/besign digests
   # -------------------
-  - href: https://www.iamag.co/category/inspiration-2/feed/
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://logicmag.io/rss.xml
