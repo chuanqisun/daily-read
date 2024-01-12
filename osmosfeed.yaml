@@ -5,6 +5,8 @@ sources:
   # ===========
   # Indie blogs
   # -----------
+  - href: https://catlikecoding.com/unity/tutorials/feed.atom
+  - href: https://catlikecoding.com/godot/feed.atom
   - href: https://datagubbe.se/atom.xml
   - href: https://jakelazaroff.com/rss.xml
   - href: https://herman.bearblog.dev/feed/
