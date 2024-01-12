@@ -5,7 +5,6 @@ sources:
   # ===========
   # Indie blogs
   # -----------
-  - href: https://simblob.blogspot.com/feeds/posts/default
   - href: https://datagubbe.se/atom.xml
   - href: https://jakelazaroff.com/rss.xml
   - href: https://herman.bearblog.dev/feed/
