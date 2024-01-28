@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs
   # -----------
+  - href: https://tonsky.me/atom.xml
   - href: https://catlikecoding.com/unity/tutorials/feed.atom
   - href: https://catlikecoding.com/godot/feed.atom
   - href: https://datagubbe.se/atom.xml
