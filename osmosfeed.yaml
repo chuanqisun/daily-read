@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs
   # -----------
+  - href: https://dz4k.com/feed.xml
   - href: https://terminaltrove.com/new.xml
   - href: https://rss.beehiiv.com/feeds/uyO6uKaqK0.xml
   - href: https://tonsky.me/atom.xml
