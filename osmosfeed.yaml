@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs
   # -----------
+  - href: https://www.joshwcomeau.com/rss.xml
   - href: https://blog.jim-nielsen.com/feed.xml
   - href: https://dz4k.com/feed.xml
   - href: https://terminaltrove.com/new.xml
