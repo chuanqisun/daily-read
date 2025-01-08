@@ -50,6 +50,7 @@ sources:
   # ===================
   # Code/besign digests
   # -------------------
+  - href: https://cprss.s3.amazonaws.com/frontendfoc.us.xml
   - href: https://cprss.s3.amazonaws.com/nodeweekly.com.xml
   - href: https://cprss.s3.amazonaws.com/javascriptweekly.com.xml
   - href: https://css-tricks.com/feed/
