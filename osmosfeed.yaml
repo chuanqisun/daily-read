@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs
   # -----------
+  - href: https://www.scopeofwork.net/rss/
   - href: https://antirez.com/rss
   - href: https://fhur.me/feed.xml
   - href: https://www.joshwcomeau.com/rss.xml
