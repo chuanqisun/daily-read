@@ -4,7 +4,7 @@ timezone: America/Los_Angeles
 sources:
   # ===========
   # Indie blogs
-  # -----------m
+  # -----------
   - href: https://www.oneusefulthing.org/feed
   - href: https://fakepixels.substack.com/feed
   - href: https://xn--gckvb8fzb.com/index.xml
