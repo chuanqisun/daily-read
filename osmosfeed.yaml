@@ -5,6 +5,7 @@ sources:
   # ===========
   # Indie blogs
   # -----------
+  - href: https://weakty.com/posts/atom.xml
   - href: https://www.oneusefulthing.org/feed
   - href: https://fakepixels.substack.com/feed
   - href: https://xn--gckvb8fzb.com/index.xml
