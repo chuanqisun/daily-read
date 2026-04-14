@@ -86,3 +86,7 @@ sources:
   - href: https://hacks.mozilla.org/feed/
   - href: https://cprss.s3.amazonaws.com/golangweekly.com.xml
   - href: https://go.dev/blog/feed.atom
+  # ==========
+  # Open Calls
+  # ----------
+  - href: https://putf.substack.com/feed
